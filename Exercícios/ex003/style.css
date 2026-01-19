@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(255, 255, 255);
+    font-family: sans-serif;
+    justify-content: center;
+    place-items: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+img{
+    border-radius: 25px;
+    display: flex;
+}
